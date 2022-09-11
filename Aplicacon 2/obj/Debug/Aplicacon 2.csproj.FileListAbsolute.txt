@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\bin\Debug\Aplicacon 2.exe.config
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\bin\Debug\Aplicacon 2.exe
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\bin\Debug\Aplicacon 2.pdb
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon_2.Form1.resources
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon_2.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.exe
+C:\Users\Alumno\source\repos\Aplicacon 2\Aplicacon 2\obj\Debug\Aplicacon 2.pdb
